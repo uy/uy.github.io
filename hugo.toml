@@ -8,7 +8,7 @@ theme = 'gokarna'
   avatarURL = "/images/profil.webp"
   AvatarAltText = "It's me, Utku"
   avatarSize = "size-m"
-  ShowBackToTopButton = true # true or false for "back to top" button on posts
+  showBackToTopButton = true # true or false for "back to top" button on posts
   socialIcons = [
     {name = "twitter", url = "https://twitter.com/yengiyegen"},
     {name = "email", url = "mailto:utkuyegen@gmail.com"}
@@ -16,13 +16,14 @@ theme = 'gokarna'
 
 [menu]
   [[menu.main]]
-    # Unique identifier for a menu item
-    identifier = "projects"
-
-    url = "/projects/"
-
-    # Display name
-    name = "Projects"
-
-    # Weights are used to determine the ordering
+    name = "Home"
+    pre = "<span data-feather='home'></span>"
+    url = "/"
     weight = 1
+
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    pre = "<span data-feather='briefcase'></span>"
+    weight = 2
