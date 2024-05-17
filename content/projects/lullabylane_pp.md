@@ -1,0 +1,288 @@
++++
+title = 'Lullabylane > Privacy Policies'
+date = 2024-05-17T16:38:40+03:00
+type = "page"
++++
+
+# English
+**Privacy Policy**
+
+Utku Yeğen built the Lullaby Lane app as a Commercial app. This SERVICE is provided by Utku Yeğen and is intended for use as is.
+
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Lullaby Lane unless otherwise defined in this Privacy Policy.
+
+**Information Collection and Use**
+
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
+
+The app does use third-party services that may collect information used to identify you.
+
+Link to the privacy policy of third-party service providers used by the app
+
+*   [Google Analytics for Firebase](https://firebase.google.com/support/privacy)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [RevenueCat](https://www.revenuecat.com/privacy)
+
+**Log Data**
+
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+
+**Cookies**
+
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+
+This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+
+**Service Providers**
+
+I may employ third-party companies and individuals due to the following reasons:
+
+*   To facilitate our Service;
+*   To provide the Service on our behalf;
+*   To perform Service-related services; or
+*   To assist us in analyzing how our Service is used.
+
+I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+
+**Security**
+
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+
+**Links to Other Sites**
+
+This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+
+**Children’s Privacy**
+
+These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+
+**Changes to This Privacy Policy**
+
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+
+This policy is effective as of 2024-03-01
+
+**Contact Us**
+
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at utkuyegen@gmail.com.  
+  
+  
+
+This privacy policy page was created at [privacypolicytemplate.net](https://privacypolicytemplate.net) and modified/generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+
+
+# German
+**Privacybeleid**
+
+Utku Yeğen heeft de app Lullaby Lane gebouwd als een commerciële app. DEZE SERVICE wordt geleverd door Utku Yeğen en is bedoeld voor gebruik zoals het is.
+
+Deze pagina wordt gebruikt om bezoekers te informeren over mijn beleid met betrekking tot de verzameling, het gebruik en de openbaarmaking van Persoonlijke Informatie als iemand besluit mijn Service te gebruiken.
+
+Als u ervoor kiest om mijn Service te gebruiken, stemt u ermee in met de verzameling en het gebruik van informatie met betrekking tot dit beleid. De Persoonlijke Informatie die ik verzamel, wordt gebruikt voor het leveren en verbeteren van de Service. Ik zal uw informatie niet gebruiken of delen met iemand, behalve zoals beschreven in dit Privacybeleid.
+
+De termen die in dit Privacybeleid worden gebruikt hebben dezelfde betekenissen als in onze Algemene Voorwaarden, die toegankelijk zijn op Lullaby Lane, tenzij anders gedefinieerd in dit Privacybeleid.
+
+**Informatieverzameling en -gebruik**
+
+Voor een betere ervaring, tijdens het gebruik van onze Service, kan ik u vragen om bepaalde persoonlijk identificeerbare informatie te verstrekken. De informatie die ik vraag zal worden bewaard op uw apparaat en wordt op geen enkele manier door mij verzameld.
+
+De app maakt wel gebruik van services van derden die mogelijk informatie verzamelen om u te identificeren.
+
+Link naar het privacybeleid van de serviceproviders van derden die door de app worden gebruikt
+
+*   [Google Analytics voor Firebase](https://firebase.google.com/support/privacy)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [RevenueCat](https://www.revenuecat.com/privacy)
+
+**Loggegevens**
+
+Ik wil u informeren dat telkens wanneer u mijn Service gebruikt, in geval van een fout in de app, ik gegevens en informatie verzamel (via derden producten) op uw telefoon genaamd Loggegevens. Deze Loggegevens kunnen informatie bevatten zoals uw apparaat Internet Protocol ("IP")-adres, apparaatnaam, besturingssysteemversie, de configuratie van de app bij het gebruik van mijn Service, het tijdstip en de datum van uw gebruik van de Service, en andere statistieken.
+
+**Cookies**
+
+Cookies zijn bestanden met een kleine hoeveelheid gegevens die vaak worden gebruikt als anonieme unieke identificatoren. Deze worden verzonden naar uw browser vanaf de websites die u bezoekt en worden opgeslagen in het interne geheugen van uw apparaat.
+
+Deze Service gebruikt deze "cookies" niet expliciet. Echter, de app kan wel gebruikmaken van code en bibliotheken van derden die "cookies" gebruiken om informatie te verzamelen en hun services te verbeteren. U hebt de mogelijkheid om deze cookies te accepteren of te weigeren en te weten wanneer een cookie naar uw apparaat wordt verzonden. Als u ervoor kiest om onze cookies te weigeren, kunt u mogelijk sommige delen van deze Service niet gebruiken.
+
+**Serviceproviders**
+
+Ik kan derde bedrijven en individuen in dienst nemen om de volgende redenen:
+
+*   Om onze Service te faciliteren;
+*   Om de Service namens ons te leveren;
+*   Om Servicegerelateerde services uit te voeren; of
+*   Om ons te helpen analyseren hoe onze Service wordt gebruikt.
+
+Ik wil gebruikers van deze Service informeren dat deze derde partijen toegang hebben tot hun Persoonlijke Informatie. De reden hiervoor is om de taken uit te voeren die aan hen zijn toegewezen namens ons. Ze zijn echter verplicht om niet te onthullen of de informatie voor geen enkel ander doel te gebruiken.
+
+**Beveiliging**
+
+Ik waardeer het vertrouwen dat u in ons stelt door ons uw Persoonlijke Informatie te verstrekken, daarom streven we ernaar om commercieel aanvaardbare middelen te gebruiken om deze te beschermen. Maar onthoud dat geen enkele methode van verzending via internet of methode van elektronische opslag 100% veilig en betrouwbaar is, en ik kan niet garanderen dat het absoluut veilig is.
+
+**Links naar andere sites**
+
+Deze Service kan links bevatten naar andere sites. Als u op een link van derden klikt, wordt u naar die site geleid. Merk op dat deze externe sites niet door mij worden beheerd. Daarom raad ik u ten zeerste aan om het Privacybeleid van deze websites te bekijken. Ik heb geen controle over en aanvaard geen verantwoordelijkheid voor de inhoud, privacybeleid of praktijken van enige derde partij sites of services.
+
+**Privacy van kinderen**
+
+Deze services zijn niet gericht op personen jonger dan 13 jaar. Ik verzamel niet bewust persoonlijk identificeerbare informatie van kinderen jonger dan 13 jaar. In het geval dat ik ontdek dat een kind jonger dan 13 jaar ons persoonlijke informatie heeft verstrekt, verwijder ik deze onmiddellijk van onze servers. Als u een ouder of voogd bent en u bent ervan op de hoogte dat uw kind ons heeft voorzien van persoonlijke informatie, neem dan contact met mij op zodat ik de noodzakelijke acties kan ondernemen.
+
+**Wijzigingen in dit privacybeleid**
+
+Ik kan ons Privacybeleid van tijd tot tijd bijwerken. Daarom wordt u geadviseerd om deze pagina regelmatig te controleren op eventuele wijzigingen. Ik zal u op de hoogte stellen van eventuele wijzigingen door het nieuwe Privacybeleid te plaatsen op deze pagina.
+
+Dit beleid is van kracht vanaf 2024-03-01
+
+**Contact**
+
+Als u vragen of suggesties heeft over mijn Privacybeleid, aarzel dan niet om contact met mij op te nemen via utkuyegen@gmail.com.  
+  
+  
+
+Dit privacybeleid is gemaakt op [privacypolicytemplate.net](https://privacypolicytemplate.net) en gewijzigd/gemaakt door [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+
+
+# Türkçe
+**Gizlilik Politikası**
+
+Utku Yeğen, Lullaby Lane uygulamasını Bir Ticari uygulama olarak oluşturdu. BU HİZMET, tarafından sağlanır Utku Yeğen ve kullanım amacıyla olarak sunulmuştur.
+
+Bu sayfa, ziyaretçileri bilgilendirmek için kullanılır hizmetimi kullanmayı tercih eden herhangi bir kişiyle ilgili toplama, kullanma ve açıklama politikaları.
+
+Hizmetimi kullanmayı seçerseniz, o zaman aşağıdakileri kabul etmiş olursunuz bu ile ilgili bilgilerin toplanması ve kullanılması politika. Topladığım Kişisel Bilgiler Hizmeti sağlamak ve geliştirmek için kullanılır. Bilgilerinizi kullanmayacağım veya paylaşmayacağım bu Gizlilik Politikasında açıklandığı gibi başkalarıyla.
+
+Bu Gizlilik Politikasında kullanılan terimlerin aynı anlamlara sahip olduğunu unutmayın Koşullar ve Şartlarımızda, erişilebilir Lullaby Lane dışında belirtilmediği sürece Gizlilik Politikasında.
+
+**Bilgi Toplama ve Kullanımı**
+
+Hizmetimizi kullanırken daha iyi bir deneyim için ben sizin belirli kişisel bilgilerinizi sağlamanızı isteyebilirim. O bilgi istediğim, cihazınızda saklanacak ve hiçbir şekilde tarafından toplanmayacak.
+
+Uygulama, sizi tanımlamak için kullanılan bilgileri toplayabilecek üçüncü taraf hizmetlerini kullanır.
+
+Uygulama tarafından kullanılan üçüncü taraf hizmet sağlayıcılarının gizlilik politikasına bağlantı
+
+*   [Firebase için Google Analytics](https://firebase.google.com/support/privacy)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [RevenueCat](https://www.revenuecat.com/privacy)
+
+**Günlük Veriler**
+
+Siz Hizmetimizi kullanın, uygulamada bir hata durumunda veri ve bilgi toplarım (üçüncü taraf aracılığıyla ürünler) telefonunuzda Günlük Verileri. Bu Günlük Verileri cihazınızın İnternet Protokolü gibi bilgileri içerebilir ("IP") adresi, cihaz adı, işletim sistemi sürümü, uygulamanın yapılandırması Hizmetimi kullanırken, Hizmetimin kullanım tarihi ve saati ve diğer istatistikler.
+
+**Çerezler**
+
+Çerezler, küçük miktarda veri içeren dosyalardır sık ​​sık anonim benzersiz tanımlayıcılar olarak kullanılır. Bunlar gönderilir ziyaret ettiğiniz web sitelerinden tarayıcınıza ve cihazınızın dahili belleğine kaydedilir.
+
+Bu Hizmet açıkça bu "çerezleri" kullanmaz. Ancak, uygulama "çerezleri" kullanan üçüncü taraf kod ve kütüphanelerden yararlanabilir bilgi toplamak ve hizmetlerini iyileştirmek. Bu çerezleri kabul etme veya reddetme seçeneğiniz vardır ve bir çerezin cihazınıza gönderilmesini bilmek. Eğer çerezlerimizi reddetmeyi seçerseniz, bazılarını kullanamayabilirsiniz bu Hizmetin bölümleri.
+
+**Hizmet Sağlayıcılar**
+
+Ben üçüncü taraf şirketler ve bireyler aşağıdaki nedenlerden dolayı istihdam edebilirim:
+
+*   Hizmetimizi kolaylaştırmak için;
+*   Hizmeti adımıza sağlamak için;
+*   Hizmetle ilgili hizmetler sunmak; veya
+*   Hizmetimizin nasıl kullanıldığını analiz etmemize yardımcı olmak.
+
+Bu Hizmetin kullanıcılarını bilgilendirmek istiyorum bu üçüncü tarafların Kişisel Bilgilerine erişimi vardır. Bunun nedeni onların bizim adımıza atanan görevleri yerine getirmektir. ancak, başka herhangi bir amaçla bilgi açıklamamak veya kullanmamak
+
+**Güvenlik**
+
+Sizin bizimle paylaştığınız güveni değerli buluyorum Kişisel Bilgileriniz, bu yüzden ticari olarak kullanıyoruz kabul edilebilir yöntemler. Ancak unutmayın ki hiçbir yöntem internet üzerinden iletim veya elektronik yöntem %100 güvenli ve güvenilir değildir ve ben mutlak güvenliğini garanti edemem.
+
+**Diğer Sitelere Bağlantılar**
+
+Bu Hizmet diğer sitelere bağlantılar içerebilir. Eğer tıklarsanız üçüncü taraf bir bağlantıya, o siteye yönlendirileceksiniz. Not bu harici siteler tarafından işletilmemekte. Bu nedenle, şiddetle tavsiye ederim Bu web sitelerinin Gizlilik Politikasını inceleyin. Benim üzerinde kontrolüm yok ve herhangi bir sorumluluk kabul etmiyorum herhangi bir üçüncü taraf sitenin içeriği, gizlilik politikaları veya uygulamaları veya hizmetler.
+
+**Çocukların Gizliliği**
+
+Bu Hizmetler 13 yaşın altındaki herhangi bir kişiye yönelik değildir. Bilerek kişisel bilgi toplamıyorum 13 yaşın altındaki çocuklardan. Durum 13 yaşın altındaki bir çocuğun kişisel bilgi sağladığını keşfedersem hemen sunucularımızdan silerim. Eğer bir ebeveyn veya vasipseniz ve çocuğunuzun bize kişisel bilgi sağladığını fark ederseniz lütfen bana ulaşın, böylece gerekli işlemleri yapabilirim.
+
+**Bu Gizlilik Politikasını Değiştirme**
+
+Gizlilik Politikamızı zaman zaman güncelleyebilirim. Bu nedenle, herhangi bir değişiklik için bu sayfayı düzenli olarak kontrol etmeniz önerilir. Sizleri herhangi bir değişiklikten haberdar edeceğim yeni Gizlilik Politikasını yayınlayarak bu sayfada.
+
+Bu politika 2024-03-01 tarihinden itibaren geçerlidir
+
+**Bize Ulaşın**
+
+Gizlilik Politikam hakkında herhangi bir sorunuz veya öneriniz varsa Çekinmeden bana utkuyegen@gmail.com adresinden ulaşın.  
+  
+  
+
+Bu gizlilik politikası sayfası [privacypolicytemplate.net](https://privacypolicytemplate.net) tarafından oluşturulmuş ve değiştirilmiştir/oluşturulmuştur [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+
+
+# Portuguese (Brazil)
+**Política de Privacidade**
+
+Utku Yeğen desenvolveu o aplicativo Lullaby Lane como um aplicativo Comercial. Este SERVIÇO é fornecido por Utku Yeğen e destina-se ao uso como está.
+
+Esta página é usada para informar os visitantes sobre minhas políticas com a coleta, uso e divulgação de Informações Pessoais se alguém decidir usar meu Serviço.
+
+Se você optar por usar meu Serviço, concorda com a coleta e uso de informações em relação a esta política. As Informações Pessoais que eu coleto são usadas para fornecer e melhorar o Serviço. Não irei usar ou compartilhar suas informações com ninguém, exceto conforme descrito nesta Política de Privacidade.
+
+Os termos usados nesta Política de Privacidade têm os mesmos significados que em nossos Termos e Condições, acessíveis em Lullaby Lane, a menos que definido de outra forma nesta Política de Privacidade.
+
+**Coleta e Uso de Informações**
+
+Para uma melhor experiência ao usar nosso Serviço, eu posso exigir que você nos forneça certas informações pessoais identificáveis. As informações que eu solicito serão retidas em seu dispositivo e não são coletadas por mim de forma alguma.
+
+O aplicativo utiliza serviços de terceiros que podem coletar informações usadas para identificá-lo.
+
+Link para a política de privacidade dos provedores de serviços de terceiros usados pelo aplicativo
+
+*   [Google Analytics para Firebase](https://firebase.google.com/support/privacy)
+*   [Firebase Crashlytics](https://firebase.google.com/support/privacy/)
+*   [RevenueCat](https://www.revenuecat.com/privacy)
+
+**Dados de Log**
+
+Eu quero informá-lo que sempre que você usar meu Serviço, em caso de erro no aplicativo eu coleto dados e informações (através de terceiros produtos) no seu telefone chamados Dados de Log. Estes Dados de Log podem incluir informações como o endereço de Protocolo de Internet ("IP") do seu dispositivo, nome do dispositivo, versão do sistema operacional, a configuração do aplicativo ao utilizar meu Serviço, a hora e data do uso do Serviço e outras estatísticas.
+
+**Cookies**
+
+Cookies são arquivos com uma pequena quantidade de dados que são comumente usados como identificadores exclusivos anônimos. Estes são enviados para o seu navegador a partir dos sites que você visita e são armazenados na memória interna do seu dispositivo.
+
+Este Serviço não usa explicitamente esses "cookies". No entanto, o aplicativo pode usar código de terceiros e bibliotecas que usam "cookies" para coletar informações e melhorar seus serviços. Você tem a opção de aceitar ou recusar esses cookies e saber quando um cookie está sendo enviado para o seu dispositivo. Se você optar por recusar nossos cookies, você pode não ser capaz de usar algumas partes deste Serviço.
+
+**Prestadores de Serviço**
+
+Eu posso contratar empresas terceirizadas e indivíduos devido aos seguintes motivos:
+
+*   Para facilitar nosso Serviço;
+*   Para fornecer o Serviço em nosso nome;
+*   Para realizar serviços relacionados ao Serviço; ou
+*   Para nos ajudar a analisar como nosso Serviço é utilizado.
+
+Eu quero informar os usuários deste Serviço que essas terceiras partes têm acesso às suas Informações Pessoais. O motivo é realizar as tarefas atribuídas a eles em nosso nome. No entanto, eles são obrigados a não divulgar ou usar as informações para qualquer outro fim.
+
+**Segurança**
+
+Eu valorizo sua confiança em nos fornecer suas Informações Pessoais, por isso estamos nos esforçando para usar meios aceitáveis comercialmente para protegê-las. Mas lembre-se de que nenhum método de transmissão pela internet, ou método de armazenamento eletrônico, é 100% seguro e confiável, e eu não posso garantir sua segurança absoluta.
+
+**Links para Outros Sites**
+
+Este Serviço pode conter links para outros sites. Se você clicar em um link de terceiros, você será direcionado para esse site. Note que esses sites externos não são operados por mim. Portanto, eu aconselho fortemente você a revisar a Política de Privacidade desses sites. Eu não tenho controle sobre e não assumo responsabilidade pelo conteúdo, políticas de privacidade ou práticas de quaisquer sites ou serviços de terceiros.
+
+**Privacidade de Crianças**
+
+Estes Serviços não se destinam a menores de 13 anos. Eu não coletamos conscientemente informações de identificação pessoal de crianças menores de 13 anos. No caso de descobrir que uma criança menor de 13 anos forneceu informações pessoais para mim, eu imediatamente deleto essas informações de nossos servidores. Se você é um pai ou responsável e você está ciente de que seu filho nos forneceu informações pessoais, entre em contato comigo para que eu possa tomar as medidas necessárias.
+
+**Alterações a Esta Política de Privacidade**
+
+Eu posso atualizar nossa Política de Privacidade de vez em quando. Assim, você é aconselhado a revisar esta página periodicamente para quaisquer alterações. Eu irei notificá-lo de quaisquer alterações postando a nova Política de Privacidade nesta página.
+
+Esta política é eficaz a partir de 2024-03-01
+
+**Entre em Contato**
+
+Se você tiver alguma dúvida ou sugestão sobre minha Política de Privacidade, não hesite em entrar em contato comigo em utkuyegen@gmail.com.  
+  
+  
+
+Esta página de política de privacidade foi criada em [privacypolicytemplate.net](https://privacypolicytemplate.net) e modificada/gerada por [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)

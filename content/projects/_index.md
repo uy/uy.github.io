@@ -6,4 +6,7 @@ type: page
 
 ### Here is my indie projects
 
-1. [Lullaby Lane: Bedtime Stories](/projects/lullabylane/)
+Lullaby Lane: Bedtime Stories
+- [app information](/projects/lullabylane/)
+- [privacy policies](/projects/lullabylane_pp/)
+- [terms and conditions](/projects/lullabylane_tc/)

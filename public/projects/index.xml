@@ -6,8 +6,22 @@
     <description>Recent content in Projects on Utku Yegen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 May 2024 12:36:33 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 17 May 2024 16:38:45 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lullabylane &gt; Terms and Conditions</title>
+      <link>http://localhost:1313/projects/lullabylane_tc/</link>
+      <pubDate>Fri, 17 May 2024 16:38:45 +0300</pubDate>
+      <guid>http://localhost:1313/projects/lullabylane_tc/</guid>
+      <description>English Terms &amp;amp; Conditions&#xA;By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions.</description>
+    </item>
+    <item>
+      <title>Lullabylane &gt; Privacy Policies</title>
+      <link>http://localhost:1313/projects/lullabylane_pp/</link>
+      <pubDate>Fri, 17 May 2024 16:38:40 +0300</pubDate>
+      <guid>http://localhost:1313/projects/lullabylane_pp/</guid>
+      <description>English Privacy Policy&#xA;Utku Yeğen built the Lullaby Lane app as a Commercial app. This SERVICE is provided by Utku Yeğen and is intended for use as is.&#xA;This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.&#xA;If you choose to use my Service, then you agree to the collection and use of information in relation to this policy.</description>
+    </item>
     <item>
       <title>Lullabylane</title>
       <link>http://localhost:1313/projects/lullabylane/</link>
