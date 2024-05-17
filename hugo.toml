@@ -1,0 +1,23 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Utku Yegen'
+theme = 'gokarna'
+
+[menu]
+  [[menu.main]]
+    # Unique identifier for a menu item
+    identifier = "projects"
+
+    url = "/projects/"
+
+    # Display name
+    name = "Projects"
+
+    # Weights are used to determine the ordering
+    weight = 1
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "Tags"
+    url = "/tags/"
+    weight = 2
