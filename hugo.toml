@@ -7,7 +7,7 @@ theme = 'gokarna'
   description = "iOS developer by day. “Herbokolog” by night."
   avatarURL = "/images/profil.webp"
   AvatarAltText = "It's me, Utku"
-  avatarSize = "size-m"
+  avatarSize = "size-l"
   showBackToTopButton = true # true or false for "back to top" button on posts
   socialIcons = [
     {name = "twitter", url = "https://twitter.com/yengiyegen"},
@@ -23,15 +23,15 @@ theme = 'gokarna'
     weight = 1
 
   [[menu.main]]
-    identifier = "posts"
-    name = "Posts"
-    pre = "<span data-feather='book'></span>"
-    url = "/posts/"
-    weight = 2
-
-  [[menu.main]]
     identifier = "projects"
     name = "Projects"
     url = "/projects/"
     pre = "<span data-feather='briefcase'></span>"
+    weight = 2
+
+  [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    pre = "<span data-feather='book'></span>"
+    url = "/posts/"
     weight = 3
