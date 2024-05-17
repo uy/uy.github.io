@@ -10,13 +10,8 @@ theme = 'gokarna'
   avatarSize = "size-m"
   ShowBackToTopButton = true # true or false for "back to top" button on posts
   socialIcons = [
-    {name = "twitter", url = "https://example.com"},
-    {name = "linkedin", url = "https://example.com"},
-    {name = "stackoverflow", url = "https://example.com"},
-    {name = "dribbble", url = "https://example.com"},
-    {name = "instagram", url = "https://example.com"},
-    {name = "twitch", url = "https://example.com"},
-    {name = "email", url = "mailto:example@example.com"}
+    {name = "twitter", url = "https://twitter.com/yengiyegen"},
+    {name = "email", url = "mailto:utkuyegen@gmail.com"}
   ]
 
 [menu]
@@ -31,9 +26,3 @@ theme = 'gokarna'
 
     # Weights are used to determine the ordering
     weight = 1
-
-  [[menu.main]]
-    identifier = "tags"
-    name = "Tags"
-    url = "/tags/"
-    weight = 2
