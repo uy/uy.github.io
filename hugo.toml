@@ -16,14 +16,22 @@ theme = 'gokarna'
 
 [menu]
   [[menu.main]]
+    identifier = "home"
     name = "Home"
     pre = "<span data-feather='home'></span>"
     url = "/"
     weight = 1
 
   [[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    pre = "<span data-feather='book'></span>"
+    url = "/posts/"
+    weight = 2
+
+  [[menu.main]]
     identifier = "projects"
     name = "Projects"
     url = "/projects/"
     pre = "<span data-feather='briefcase'></span>"
-    weight = 2
+    weight = 3
