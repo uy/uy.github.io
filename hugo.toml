@@ -1,7 +1,23 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://uy.github.io/'
 languageCode = 'en-us'
 title = 'Utku Yegen'
 theme = 'gokarna'
+
+[params]
+  description = "iOS developer by day. “Herbokolog” by night."
+  avatarURL = "/images/profil.webp"
+  AvatarAltText = "It's me, Utku"
+  avatarSize = "size-m"
+  ShowBackToTopButton = true # true or false for "back to top" button on posts
+  socialIcons = [
+    {name = "twitter", url = "https://example.com"},
+    {name = "linkedin", url = "https://example.com"},
+    {name = "stackoverflow", url = "https://example.com"},
+    {name = "dribbble", url = "https://example.com"},
+    {name = "instagram", url = "https://example.com"},
+    {name = "twitch", url = "https://example.com"},
+    {name = "email", url = "mailto:example@example.com"}
+  ]
 
 [menu]
   [[menu.main]]
