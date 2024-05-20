@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Utku Yegen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 May 2024 14:12:39 +0300</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2024 22:39:21 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GoHugo Tutorial</title>
+      <link>http://localhost:1313/posts/gohugo_tutor/</link>
+      <pubDate>Mon, 20 May 2024 22:39:21 +0300</pubDate>
+      <guid>http://localhost:1313/posts/gohugo_tutor/</guid>
+      <description>What is GoHugo Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.&#xA;If you want to create a static web site like simple portfolio or landing page you can use Hugo.&#xA;Installation Official installation steps.&#xA;How did I install I just need to install hugo. Because I already have go.&#xA;brew install hugo Create your static web site line say hugo to create new site which is named quickstart.</description>
+    </item>
     <item>
       <title>First Post</title>
       <link>http://localhost:1313/posts/first_post/</link>
