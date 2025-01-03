@@ -4,7 +4,7 @@ date = 2024-05-17T12:36:33+03:00
 type = "page"
 +++
 
-![lullaby lane](/images/playstore.png)
+![lullaby lane](/images/lullabylane.png)
 
 Create bedtime stories powered by AI with your child's name, age and gender!
 

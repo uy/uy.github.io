@@ -8,5 +8,9 @@ type: page
 
 Lullaby Lane: Bedtime Stories
 - [app information](/projects/lullabylane/)
-- [privacy policies](/projects/lullabylane_pp/)
-- [terms and conditions](/projects/lullabylane_tc/)
+    - [privacy policies](/projects/lullabylane_pp/)
+    - [terms and conditions](/projects/lullabylane_tc/)
+
+IconCraft AI
+- [app information](/projects/iconcraftai/)
+    - [privacy policies](/projects/iconcraftai_pp/)
