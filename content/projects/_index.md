@@ -14,3 +14,8 @@ Lullaby Lane: Bedtime Stories
 IconCraft AI
 - [app information](/projects/iconcraftai/)
     - [privacy policies](/projects/iconcraftai_pp/)
+
+Recipe Assistant
+- [app information](/projects/recipeassistant/)
+    - [privacy policies](/projects/recipeassistant_pp/)
+    - [terms and conditions](/projects/recipeassistant_tc/)
