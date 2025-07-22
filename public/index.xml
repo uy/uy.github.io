@@ -6,8 +6,29 @@
     <description>Recent content on Utku Yegen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jan 2025 23:56:09 +0300</lastBuildDate>
+    <lastBuildDate>Tue, 22 Jul 2025 18:51:17 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Lookalization_tc</title>
+      <link>http://localhost:1313/projects/lookalization_tc/</link>
+      <pubDate>Tue, 22 Jul 2025 18:51:17 +0300</pubDate>
+      <guid>http://localhost:1313/projects/lookalization_tc/</guid>
+      <description>Lookalization Terms &amp;amp; Conditions&#xA;These terms and conditions apply to the Lookalization app (hereby referred to as &amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by Utku Yeğen (hereby referred to as &amp;ldquo;Service Provider&amp;rdquo;) as a Freemium service.&#xA;Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited.</description>
+    </item>
+    <item>
+      <title>Lookalization_pp</title>
+      <link>http://localhost:1313/projects/lookalization_pp/</link>
+      <pubDate>Tue, 22 Jul 2025 18:49:06 +0300</pubDate>
+      <guid>http://localhost:1313/projects/lookalization_pp/</guid>
+      <description>Lookalization Privacy Policy&#xA;This privacy policy applies to the Lookalization app (hereby referred to as &amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by Utku Yeğen (hereby referred to as &amp;ldquo;Service Provider&amp;rdquo;) as a Freemium service. This service is intended for use &amp;ldquo;AS IS&amp;rdquo;.&#xA;What information does the Application obtain and how is it used?&#xA;The Application does not obtain any information when you download and use it. Registration is not required to use the Application.</description>
+    </item>
+    <item>
+      <title>Lookalization</title>
+      <link>http://localhost:1313/projects/lookalization/</link>
+      <pubDate>Tue, 22 Jul 2025 18:48:03 +0300</pubDate>
+      <guid>http://localhost:1313/projects/lookalization/</guid>
+      <description>Lookalization Take control of your app localization process with our intuitive tool. Manage all translations via one .xcstrings file Quickly add localization keys and values Instantly switch and update target languages Import and update localization files in seconds Speed up your development workflow and deliver a better experience to global users!</description>
+    </item>
     <item>
       <title>Meal Recipe Generator &gt; Terms and Conditions</title>
       <link>http://localhost:1313/projects/recipeassistant_tc/</link>

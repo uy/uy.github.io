@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/recipeassistant_tc/</loc>
-    <lastmod>2025-01-21T23:56:09+03:00</lastmod>
+    <loc>http://localhost:1313/projects/lookalization_tc/</loc>
+    <lastmod>2025-07-22T18:51:17+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2025-01-21T23:56:09+03:00</lastmod>
+    <lastmod>2025-07-22T18:51:17+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-07-22T18:51:17+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/lookalization_pp/</loc>
+    <lastmod>2025-07-22T18:49:06+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/lookalization/</loc>
+    <lastmod>2025-07-22T18:48:03+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/recipeassistant_tc/</loc>
     <lastmod>2025-01-21T23:56:09+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/recipeassistant_pp/</loc>

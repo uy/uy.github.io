@@ -11,11 +11,16 @@ Lullaby Lane: Bedtime Stories
     - [privacy policies](/projects/lullabylane_pp/)
     - [terms and conditions](/projects/lullabylane_tc/)
 
-IconCraft AI
-- [app information](/projects/iconcraftai/)
-    - [privacy policies](/projects/iconcraftai_pp/)
-
 Recipe Assistant
 - [app information](/projects/recipeassistant/)
     - [privacy policies](/projects/recipeassistant_pp/)
     - [terms and conditions](/projects/recipeassistant_tc/)
+
+Lookalization
+- [app information](/projects/lookalization/)
+    - [privacy policies](/projects/lookalization_pp/)
+    - [terms and conditions](/projects/lookalization_tc/)
+
+IconCraft AI
+- [app information](/projects/iconcraftai/)
+    - [privacy policies](/projects/iconcraftai_pp/)
