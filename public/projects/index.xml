@@ -6,17 +6,38 @@
     <description>Recent content in Projects on Utku Yegen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Jul 2025 18:51:17 +0300</lastBuildDate>
+    <lastBuildDate>Sat, 09 Aug 2025 01:09:35 +0300</lastBuildDate>
     <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Lookalization_tc</title>
+      <title>Gradiento &gt; Terms and Conditions</title>
+      <link>http://localhost:1313/projects/gradiento_tc/</link>
+      <pubDate>Sat, 09 Aug 2025 01:09:35 +0300</pubDate>
+      <guid>http://localhost:1313/projects/gradiento_tc/</guid>
+      <description>Terms &amp;amp; Conditions&#xA;These terms and conditions apply to the Gradiento app (hereby referred to as &amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by Utku Yegen (hereby referred to as &amp;ldquo;Service Provider&amp;rdquo;) as a Free service.&#xA;Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited.</description>
+    </item>
+    <item>
+      <title>Gradiento &gt; Privacy Policies</title>
+      <link>http://localhost:1313/projects/gradiento_pp/</link>
+      <pubDate>Sat, 09 Aug 2025 01:09:29 +0300</pubDate>
+      <guid>http://localhost:1313/projects/gradiento_pp/</guid>
+      <description>Privacy Policy&#xA;This privacy policy applies to the Gradiento app (hereby referred to as &amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by Utku Yegen (hereby referred to as &amp;ldquo;Service Provider&amp;rdquo;) as a Free service. This service is intended for use &amp;ldquo;AS IS&amp;rdquo;.&#xA;What information does the Application obtain and how is it used?&#xA;The Application does not obtain any information when you download and use it. Registration is not required to use the Application.</description>
+    </item>
+    <item>
+      <title>Gradiento</title>
+      <link>http://localhost:1313/projects/gradiento/</link>
+      <pubDate>Sat, 09 Aug 2025 01:09:06 +0300</pubDate>
+      <guid>http://localhost:1313/projects/gradiento/</guid>
+      <description>Looking for a unique wallpaper that perfectly matches your style? Meet your new favorite app for creating stunning mesh gradient backgrounds! Our app makes it incredibly simple to design beautiful, dynamic wallpapers. With just a few taps, you can generate endless combinations of vibrant gradient colors.&#xA;Simple &amp;amp; Intuitive: Create captivating mesh gradient designs effortlessly. No design skills needed! Unique Wallpapers: Generate one-of-a-kind gradient backgrounds for your home and lock screens.</description>
+    </item>
+    <item>
+      <title>Lookalization &gt; Terms and Conditions</title>
       <link>http://localhost:1313/projects/lookalization_tc/</link>
       <pubDate>Tue, 22 Jul 2025 18:51:17 +0300</pubDate>
       <guid>http://localhost:1313/projects/lookalization_tc/</guid>
       <description>Lookalization Terms &amp;amp; Conditions&#xA;These terms and conditions apply to the Lookalization app (hereby referred to as &amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by Utku Yeğen (hereby referred to as &amp;ldquo;Service Provider&amp;rdquo;) as a Freemium service.&#xA;Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited.</description>
     </item>
     <item>
-      <title>Lookalization_pp</title>
+      <title>Lookalization &gt; Privacy Policies</title>
       <link>http://localhost:1313/projects/lookalization_pp/</link>
       <pubDate>Tue, 22 Jul 2025 18:49:06 +0300</pubDate>
       <guid>http://localhost:1313/projects/lookalization_pp/</guid>

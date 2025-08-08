@@ -1,14 +1,12 @@
 +++
-title = 'Lookalization > Privacy Policies'
-date = 2025-07-22T18:49:06+03:00
+title = 'Gradiento > Privacy Policies'
+date = 2025-08-09T01:09:29+03:00
 type = "page"
 +++
 
-#### Lookalization
-
 **Privacy Policy**
 
-This privacy policy applies to the Lookalization app (hereby referred to as "Application") for mobile devices that was created by Utku Yeğen (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+This privacy policy applies to the Gradiento app (hereby referred to as "Application") for mobile devices that was created by Utku Yegen (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 **What information does the Application obtain and how is it used?**
 
@@ -40,7 +38,7 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 
 This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to their Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-This privacy policy is effective as of 2025-07-22
+This privacy policy is effective as of 2025-08-08
 
 **Your Consent**
 

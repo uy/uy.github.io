@@ -21,6 +21,11 @@ Lookalization
     - [privacy policies](/projects/lookalization_pp/)
     - [terms and conditions](/projects/lookalization_tc/)
 
+Gradient"o
+- [app information](/projects/gradiento/)
+    - [privacy policies](/projects/gradiento_pp/)
+    - [terms and conditions](/projects/gradiento_tc/)
+
 IconCraft AI
 - [app information](/projects/iconcraftai/)
     - [privacy policies](/projects/iconcraftai_pp/)
