@@ -2,13 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/projects/gradiento_tc/</loc>
-    <lastmod>2025-08-09T01:09:35+03:00</lastmod>
+    <loc>http://localhost:1313/projects/ec/</loc>
+    <lastmod>2025-09-22T11:17:23+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/</loc>
-    <lastmod>2025-08-09T01:09:35+03:00</lastmod>
+    <lastmod>2025-09-22T11:17:23+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2025-09-22T11:17:23+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/ec_tc/</loc>
+    <lastmod>2025-09-22T11:17:16+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/ec_pp/</loc>
+    <lastmod>2025-09-22T11:17:10+03:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/projects/gradiento_tc/</loc>
     <lastmod>2025-08-09T01:09:35+03:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/projects/gradiento_pp/</loc>
