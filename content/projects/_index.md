@@ -21,6 +21,11 @@ Elysium Concierge
     - [privacy policies](/projects/ec_pp/)
     - [terms and conditions](/projects/ec_tc/)
 
+WellNest Companion
+- [app information](/projects/wellnest/)
+    - [privacy policies](/projects/wellnest_pp/)
+    - [terms and conditions](/projects/wellnest_tc/)
+
 Lullaby Lane: Bedtime Stories
 - [app information](/projects/lullabylane/)
     - [privacy policies](/projects/lullabylane_pp/)
