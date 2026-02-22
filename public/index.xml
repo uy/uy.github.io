@@ -2,164 +2,164 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Utku Yegen</title>
-    <link>https://uy.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Utku Yegen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 28 Dec 2025 14:59:30 +0300</lastBuildDate>
-    <atom:link href="https://uy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Wellnest_tc</title>
-      <link>https://uy.github.io/projects/wellnest_tc/</link>
+      <link>http://localhost:1313/projects/wellnest_tc/</link>
       <pubDate>Sun, 28 Dec 2025 14:59:30 +0300</pubDate>
-      <guid>https://uy.github.io/projects/wellnest_tc/</guid>
+      <guid>http://localhost:1313/projects/wellnest_tc/</guid>
       <description>Terms &amp;amp; Conditions&#xA;These terms and conditions apply to the WellNest Companion app (hereby referred to as &amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by Utku Yeğen (hereby referred to as &amp;ldquo;Service Provider&amp;rdquo;) as a Freemium service.&#xA;Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application.&#xA;Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited.</description>
     </item>
     <item>
       <title>Wellnest_pp</title>
-      <link>https://uy.github.io/projects/wellnest_pp/</link>
+      <link>http://localhost:1313/projects/wellnest_pp/</link>
       <pubDate>Sun, 28 Dec 2025 14:59:23 +0300</pubDate>
-      <guid>https://uy.github.io/projects/wellnest_pp/</guid>
+      <guid>http://localhost:1313/projects/wellnest_pp/</guid>
       <description>Privacy Policy This privacy policy applies to the WellNest – AI Health Companion app (hereby referred to as the &amp;ldquo;Application&amp;rdquo;) for mobile devices, developed by Utku Yeğen (hereby referred to as the &amp;ldquo;Service Provider&amp;rdquo;) as a Freemium service. This service is provided &amp;ldquo;AS IS&amp;rdquo;.&#xA;1. Overview WellNest is designed with a privacy-first architecture.&#xA;By default, all user data is processed locally on the user&amp;rsquo;s device using an on-device large language model (Local LLM).</description>
     </item>
     <item>
       <title>Wellnest</title>
-      <link>https://uy.github.io/projects/wellnest/</link>
+      <link>http://localhost:1313/projects/wellnest/</link>
       <pubDate>Sun, 28 Dec 2025 14:58:26 +0300</pubDate>
-      <guid>https://uy.github.io/projects/wellnest/</guid>
+      <guid>http://localhost:1313/projects/wellnest/</guid>
       <description>Your Personal Health Companion This app turns your Apple Health data into clear, friendly, and meaningful insights — all processed locally on your device.&#xA;Instead of overwhelming charts or clinical language, you receive calm, supportive summaries that help you better understand your daily habits, short-term patterns, and long-term trends.&#xA;What You’ll Get Daily, weekly, and monthly health insights Easy-to-understand summaries of activity, sleep, and wellness signals Positive reinforcement to keep you motivated Gentle suggestions to support healthier routines Designed With Care Privacy-first: Your health data stays on your device No diagnoses or treatments: This app does not replace medical professionals Supportive tone: No judgment, no pressure — just awareness Built for Everyday Wellness Whether you want a quick daily reflection or a broader view of your habits over time, this app helps you stay mindful of your well-being in a simple and reassuring way.</description>
     </item>
     <item>
       <title>Elysium Concierge</title>
-      <link>https://uy.github.io/projects/ec/</link>
+      <link>http://localhost:1313/projects/ec/</link>
       <pubDate>Mon, 22 Sep 2025 11:17:23 +0300</pubDate>
-      <guid>https://uy.github.io/projects/ec/</guid>
+      <guid>http://localhost:1313/projects/ec/</guid>
       <description></description>
     </item>
     <item>
       <title>Elysium Concierge &gt; Terms and Conditions</title>
-      <link>https://uy.github.io/projects/ec_tc/</link>
+      <link>http://localhost:1313/projects/ec_tc/</link>
       <pubDate>Mon, 22 Sep 2025 11:17:16 +0300</pubDate>
-      <guid>https://uy.github.io/projects/ec_tc/</guid>
+      <guid>http://localhost:1313/projects/ec_tc/</guid>
       <description>Terms &amp;amp; Conditions&#xA;These terms and conditions apply to the Elysium Concierge app (hereby referred to as &amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by Utku Yegen (hereby referred to as &amp;ldquo;Service Provider&amp;rdquo;) as a Freemium service.&#xA;Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited.</description>
     </item>
     <item>
       <title>Elysium Concierge &gt; Privacy Policies</title>
-      <link>https://uy.github.io/projects/ec_pp/</link>
+      <link>http://localhost:1313/projects/ec_pp/</link>
       <pubDate>Mon, 22 Sep 2025 11:17:10 +0300</pubDate>
-      <guid>https://uy.github.io/projects/ec_pp/</guid>
+      <guid>http://localhost:1313/projects/ec_pp/</guid>
       <description>Privacy Policy&#xA;This privacy policy applies to the Elysium Concierge app (hereby referred to as &amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by Utku Yegen (hereby referred to as &amp;ldquo;Service Provider&amp;rdquo;) as a Freemium service. This service is intended for use &amp;ldquo;AS IS&amp;rdquo;.&#xA;Information Collection and Use&#xA;The Application collects information when you download and use it. This information may include information such as&#xA;Your device&amp;rsquo;s Internet Protocol address (e.g. IP address) The pages of the Application that you visit, the time and date of your visit, the time spent on those pages The time spent on the Application The operating system you use on your mobile device The Application does not gather precise information about the location of your mobile device.</description>
     </item>
     <item>
       <title>Gradiento &gt; Terms and Conditions</title>
-      <link>https://uy.github.io/projects/gradiento_tc/</link>
+      <link>http://localhost:1313/projects/gradiento_tc/</link>
       <pubDate>Sat, 09 Aug 2025 01:09:35 +0300</pubDate>
-      <guid>https://uy.github.io/projects/gradiento_tc/</guid>
+      <guid>http://localhost:1313/projects/gradiento_tc/</guid>
       <description>Terms &amp;amp; Conditions&#xA;These terms and conditions apply to the Gradiento app (hereby referred to as &amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by Utku Yegen (hereby referred to as &amp;ldquo;Service Provider&amp;rdquo;) as a Free service.&#xA;Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited.</description>
     </item>
     <item>
       <title>Gradiento &gt; Privacy Policies</title>
-      <link>https://uy.github.io/projects/gradiento_pp/</link>
+      <link>http://localhost:1313/projects/gradiento_pp/</link>
       <pubDate>Sat, 09 Aug 2025 01:09:29 +0300</pubDate>
-      <guid>https://uy.github.io/projects/gradiento_pp/</guid>
+      <guid>http://localhost:1313/projects/gradiento_pp/</guid>
       <description>Privacy Policy&#xA;This privacy policy applies to the Gradiento app (hereby referred to as &amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by Utku Yegen (hereby referred to as &amp;ldquo;Service Provider&amp;rdquo;) as a Free service. This service is intended for use &amp;ldquo;AS IS&amp;rdquo;.&#xA;What information does the Application obtain and how is it used?&#xA;The Application does not obtain any information when you download and use it. Registration is not required to use the Application.</description>
     </item>
     <item>
       <title>Gradiento</title>
-      <link>https://uy.github.io/projects/gradiento/</link>
+      <link>http://localhost:1313/projects/gradiento/</link>
       <pubDate>Sat, 09 Aug 2025 01:09:06 +0300</pubDate>
-      <guid>https://uy.github.io/projects/gradiento/</guid>
+      <guid>http://localhost:1313/projects/gradiento/</guid>
       <description>Looking for a unique wallpaper that perfectly matches your style? Meet your new favorite app for creating stunning mesh gradient backgrounds! Our app makes it incredibly simple to design beautiful, dynamic wallpapers. With just a few taps, you can generate endless combinations of vibrant gradient colors.&#xA;Simple &amp;amp; Intuitive: Create captivating mesh gradient designs effortlessly. No design skills needed! Unique Wallpapers: Generate one-of-a-kind gradient backgrounds for your home and lock screens.</description>
     </item>
     <item>
       <title>Lookalization &gt; Terms and Conditions</title>
-      <link>https://uy.github.io/projects/lookalization_tc/</link>
+      <link>http://localhost:1313/projects/lookalization_tc/</link>
       <pubDate>Tue, 22 Jul 2025 18:51:17 +0300</pubDate>
-      <guid>https://uy.github.io/projects/lookalization_tc/</guid>
+      <guid>http://localhost:1313/projects/lookalization_tc/</guid>
       <description>Lookalization Terms &amp;amp; Conditions&#xA;These terms and conditions apply to the Lookalization app (hereby referred to as &amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by Utku Yeğen (hereby referred to as &amp;ldquo;Service Provider&amp;rdquo;) as a Freemium service.&#xA;Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited.</description>
     </item>
     <item>
       <title>Lookalization &gt; Privacy Policies</title>
-      <link>https://uy.github.io/projects/lookalization_pp/</link>
+      <link>http://localhost:1313/projects/lookalization_pp/</link>
       <pubDate>Tue, 22 Jul 2025 18:49:06 +0300</pubDate>
-      <guid>https://uy.github.io/projects/lookalization_pp/</guid>
+      <guid>http://localhost:1313/projects/lookalization_pp/</guid>
       <description>Lookalization Privacy Policy&#xA;This privacy policy applies to the Lookalization app (hereby referred to as &amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by Utku Yeğen (hereby referred to as &amp;ldquo;Service Provider&amp;rdquo;) as a Freemium service. This service is intended for use &amp;ldquo;AS IS&amp;rdquo;.&#xA;What information does the Application obtain and how is it used?&#xA;The Application does not obtain any information when you download and use it. Registration is not required to use the Application.</description>
     </item>
     <item>
       <title>Lookalization</title>
-      <link>https://uy.github.io/projects/lookalization/</link>
+      <link>http://localhost:1313/projects/lookalization/</link>
       <pubDate>Tue, 22 Jul 2025 18:48:03 +0300</pubDate>
-      <guid>https://uy.github.io/projects/lookalization/</guid>
+      <guid>http://localhost:1313/projects/lookalization/</guid>
       <description>Lookalization Take control of your app localization process with our intuitive tool. Manage all translations via one .xcstrings file Quickly add localization keys and values Instantly switch and update target languages Import and update localization files in seconds Speed up your development workflow and deliver a better experience to global users!</description>
     </item>
     <item>
       <title>Meal Recipe Generator &gt; Terms and Conditions</title>
-      <link>https://uy.github.io/projects/recipeassistant_tc/</link>
+      <link>http://localhost:1313/projects/recipeassistant_tc/</link>
       <pubDate>Tue, 21 Jan 2025 23:56:09 +0300</pubDate>
-      <guid>https://uy.github.io/projects/recipeassistant_tc/</guid>
+      <guid>http://localhost:1313/projects/recipeassistant_tc/</guid>
       <description>Terms &amp;amp; Conditions&#xA;These terms and conditions apply to the Meal Recipe Generator app (hereby referred to as &amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by Utku Yeğen (hereby referred to as &amp;ldquo;Service Provider&amp;rdquo;) as a Freemium service.&#xA;Upon downloading or utilizing the Application, you are automatically agreeing to the following terms. It is strongly advised that you thoroughly read and understand these terms prior to using the Application. Unauthorized copying, modification of the Application, any part of the Application, or our trademarks is strictly prohibited.</description>
     </item>
     <item>
       <title>Meal Recipe Generator &gt; Privacy Policy</title>
-      <link>https://uy.github.io/projects/recipeassistant_pp/</link>
+      <link>http://localhost:1313/projects/recipeassistant_pp/</link>
       <pubDate>Tue, 21 Jan 2025 23:54:51 +0300</pubDate>
-      <guid>https://uy.github.io/projects/recipeassistant_pp/</guid>
+      <guid>http://localhost:1313/projects/recipeassistant_pp/</guid>
       <description>Privacy Policy&#xA;This privacy policy applies to the Meal Recipe Generator app (hereby referred to as &amp;ldquo;Application&amp;rdquo;) for mobile devices that was created by Utku Yeğen (hereby referred to as &amp;ldquo;Service Provider&amp;rdquo;) as a Freemium service. This service is intended for use &amp;ldquo;AS IS&amp;rdquo;.&#xA;What information does the Application obtain and how is it used?&#xA;The Application does not obtain any information when you download and use it. Registration is not required to use the Application.</description>
     </item>
     <item>
       <title>Meal Recipe Generator</title>
-      <link>https://uy.github.io/projects/recipeassistant/</link>
+      <link>http://localhost:1313/projects/recipeassistant/</link>
       <pubDate>Tue, 21 Jan 2025 23:49:18 +0300</pubDate>
-      <guid>https://uy.github.io/projects/recipeassistant/</guid>
+      <guid>http://localhost:1313/projects/recipeassistant/</guid>
       <description>Don’t Waste, Create! Your AI Recipe Partner Turn your leftover ingredients into mouthwatering dishes with ease! Simply select vegetables or other items from your fridge, and our AI will generate personalized, delicious recipes tailored to your preferences.&#xA;Features You’ll Love: AI-Powered Recipes: Get creative, chef-approved ideas in seconds. Ingredient Selection: Add items you already have, no shopping required! Reduce Waste: Transform leftovers into satisfying meals. Easy to Use: A simple and intuitive interface for all cooking levels.</description>
     </item>
     <item>
       <title>IconCraft AI &gt; Privacy Policies</title>
-      <link>https://uy.github.io/projects/iconcraftai_pp/</link>
+      <link>http://localhost:1313/projects/iconcraftai_pp/</link>
       <pubDate>Fri, 03 Jan 2025 15:39:42 +0300</pubDate>
-      <guid>https://uy.github.io/projects/iconcraftai_pp/</guid>
+      <guid>http://localhost:1313/projects/iconcraftai_pp/</guid>
       <description>Privacy Policy for IconCraft AI Effective Date: 03 January 2025&#xA;At IconCraft AI, your privacy is our top priority. This Privacy Policy outlines how we handle your information. By using our application, you agree to the terms described below.&#xA;Information We Collect We do not collect, store, or process any personal data from our users.&#xA;How We Use Your Information Since we do not collect any data, there is no information to use, process, or share.</description>
     </item>
     <item>
       <title>IconCraft AI</title>
-      <link>https://uy.github.io/projects/iconcraftai/</link>
+      <link>http://localhost:1313/projects/iconcraftai/</link>
       <pubDate>Fri, 03 Jan 2025 15:34:54 +0300</pubDate>
-      <guid>https://uy.github.io/projects/iconcraftai/</guid>
+      <guid>http://localhost:1313/projects/iconcraftai/</guid>
       <description>Transform your app ideas into stunning icons and assets with IconCraft AI - your all-in-one solution for professional app icon generation and asset management.&#xA;AI-POWERED ICON GENERATION Create unique app icons from text descriptions Choose from multiple artistic styles: Engraving: Classic, detailed aesthetic Line Art: Clean, minimalist designs Line Circuit: Modern, tech-inspired look Linocut: Bold, artistic prints Preview icons instantly Generate icons optimized for all platforms Export in all required sizes automatically SMART ASSET GENERATOR Convert any image into platform-ready assets Automatically generate 1x, 2x, and 3x resolutions Export ready-to-use asset catalogs Drag-and-drop interface for easy importing Batch processing for multiple assets Export in industry-standard formats PLATFORM SUPPORT Generate icons and assets for:</description>
     </item>
     <item>
       <title>GoHugo Tutorial</title>
-      <link>https://uy.github.io/posts/gohugo_tutor/</link>
+      <link>http://localhost:1313/posts/gohugo_tutor/</link>
       <pubDate>Mon, 20 May 2024 22:39:21 +0300</pubDate>
-      <guid>https://uy.github.io/posts/gohugo_tutor/</guid>
+      <guid>http://localhost:1313/posts/gohugo_tutor/</guid>
       <description>What is GoHugo Hugo is one of the most popular open-source static site generators. With its amazing speed and flexibility, Hugo makes building websites fun again.&#xA;If you want to create a static web site like simple portfolio or landing page you can use Hugo.&#xA;Installation Official installation steps.&#xA;How did I install I just need to install hugo. Because I already have go.&#xA;brew install hugo Create your static web site line say hugo to create new site which is named quickstart.</description>
     </item>
     <item>
       <title>Lullabylane &gt; Terms and Conditions</title>
-      <link>https://uy.github.io/projects/lullabylane_tc/</link>
+      <link>http://localhost:1313/projects/lullabylane_tc/</link>
       <pubDate>Fri, 17 May 2024 16:38:45 +0300</pubDate>
-      <guid>https://uy.github.io/projects/lullabylane_tc/</guid>
+      <guid>http://localhost:1313/projects/lullabylane_tc/</guid>
       <description>English Terms &amp;amp; Conditions&#xA;By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app. You’re not allowed to copy or modify the app, any part of the app, or our trademarks in any way. You’re not allowed to attempt to extract the source code of the app, and you also shouldn’t try to translate the app into other languages or make derivative versions.</description>
     </item>
     <item>
       <title>Lullabylane &gt; Privacy Policies</title>
-      <link>https://uy.github.io/projects/lullabylane_pp/</link>
+      <link>http://localhost:1313/projects/lullabylane_pp/</link>
       <pubDate>Fri, 17 May 2024 16:38:40 +0300</pubDate>
-      <guid>https://uy.github.io/projects/lullabylane_pp/</guid>
+      <guid>http://localhost:1313/projects/lullabylane_pp/</guid>
       <description>English Privacy Policy&#xA;Utku Yeğen built the Lullaby Lane app as a Commercial app. This SERVICE is provided by Utku Yeğen and is intended for use as is.&#xA;This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.&#xA;If you choose to use my Service, then you agree to the collection and use of information in relation to this policy.</description>
     </item>
     <item>
       <title>First Post</title>
-      <link>https://uy.github.io/posts/first_post/</link>
+      <link>http://localhost:1313/posts/first_post/</link>
       <pubDate>Fri, 17 May 2024 14:12:39 +0300</pubDate>
-      <guid>https://uy.github.io/posts/first_post/</guid>
+      <guid>http://localhost:1313/posts/first_post/</guid>
       <description>Empty post for personal blog.</description>
     </item>
     <item>
       <title>Lullabylane</title>
-      <link>https://uy.github.io/projects/lullabylane/</link>
+      <link>http://localhost:1313/projects/lullabylane/</link>
       <pubDate>Fri, 17 May 2024 12:36:33 +0300</pubDate>
-      <guid>https://uy.github.io/projects/lullabylane/</guid>
+      <guid>http://localhost:1313/projects/lullabylane/</guid>
       <description>Create bedtime stories powered by AI with your child&amp;rsquo;s name, age and gender!&#xA;Bedtime stories have never been this special! With Lullaby Lane, you can create unique and personalized bedtime stories for your child by simply entering a few information. Enter the parents&amp;rsquo; names, your child&amp;rsquo;s name, age and gender, and if you wish, add a few keywords or phrases related to the plot of the story. With this information, our application will create a special story that will nourish your child&amp;rsquo;s imagination and creativity.</description>
     </item>
   </channel>
