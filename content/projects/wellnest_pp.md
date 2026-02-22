@@ -4,50 +4,165 @@ date = 2025-12-28T14:59:23+03:00
 type = "page"
 +++
 
-**Privacy Policy**
+# Privacy Policy
 
-This privacy policy applies to the WellNest Companion app (hereby referred to as "Application") for mobile devices that was created by Utku Yeğen (hereby referred to as "Service Provider") as a Freemium service. This service is intended for use "AS IS".
+This privacy policy applies to the **WellNest – AI Health Companion** app (hereby referred to as the "Application") for mobile devices, developed by Utku Yeğen (hereby referred to as the "Service Provider") as a Freemium service. This service is provided "AS IS".
 
-**What information does the Application obtain and how is it used?**
+---
 
-The Application does not obtain any information when you download and use it. Registration is not required to use the Application.
+## 1. Overview
 
-**Does the Application collect precise real time location information of the device?**
+WellNest is designed with a privacy-first architecture.
 
-This Application does not collect precise information about the location of your mobile device.
+By default, all user data is processed locally on the user's device using an on-device large language model (Local LLM).
 
-**Do third parties see and/or have access to information obtained by the Application?**
+Users may optionally enable Enhanced AI Insights, which uses OpenAI’s API for advanced analysis. External processing requires explicit user consent.
 
-Since the Application does not collect any information, no data is shared with third parties.
+---
 
-**What are my opt-out rights?**
+## 2. What Information Does the Application Obtain?
 
-You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+The Application allows users to create and store:
 
-**Children**
+- Journal entries  
+- Mood logs  
+- Wellness reflections  
+- Optional Apple Health data (if the user grants HealthKit permission)
 
-The Application is not used to knowingly solicit data from or market to children under the age of 13.
+Registration is not required to use the Application.
 
-The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (utkuyegen@gmail.com) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+All data is stored locally on the device unless the user explicitly enables Enhanced AI Insights.
 
-**Security**
+---
 
-The Service Provider is concerned about safeguarding the confidentiality of your information. However, since the Application does not collect any information, there is no risk of your data being accessed by unauthorized individuals.
+## 3. Local AI Processing (Default Mode)
 
-**Changes**
+By default:
 
-This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to their Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
+- AI insights are generated using an on-device language model.
+- No journal entries, mood logs, or health data are transmitted externally.
+- No personal data leaves the user's device.
 
-This privacy policy is effective as of 2025-12-28
+If the user does not enable Enhanced AI Insights, all processing remains fully local.
 
-**Your Consent**
+---
 
-By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by the Service Provider.
+## 4. Optional Enhanced AI Insights (Paid Feature)
 
-**Contact Us**
+Users may choose to enable Enhanced AI Insights as part of a paid subscription.
 
-If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at utkuyegen@gmail.com.
+If the user explicitly consents:
 
-* * *
+- Selected user data (such as journal entries, mood logs, reflections, and optionally authorized health metrics) may be securely transmitted to **OpenAI** via its API for advanced AI analysis.
+- Data is transmitted only when the user requests enhanced AI-generated insights.
+- Data is encrypted in transit.
+- Data is used solely to generate the requested AI response.
+- Data is not sold.
+- Data is not used for advertising purposes.
 
-This privacy policy page was generated by [App Privacy Policy Generator](https://app-privacy-policy-generator.nisrulz.com/)
+OpenAI processes data in accordance with its privacy and security standards. The Application does not allow OpenAI to use user data for marketing purposes.
+
+Before any data is transmitted externally, the Application presents a clear consent screen explaining:
+
+- What data will be shared  
+- Why it will be shared  
+- That it will be processed by OpenAI  
+- That consent can be withdrawn at any time  
+
+Users can disable Enhanced AI Insights at any time in the Application settings.
+
+If the user does not enable this feature, no personal data is transmitted to OpenAI.
+
+---
+
+## 5. Third-Party Access to Information
+
+Third parties only receive user data if:
+
+1. The user explicitly enables Enhanced AI Insights, and  
+2. The user requests AI-generated analysis.
+
+In such cases, data is shared solely with OpenAI for the purpose of generating AI-powered insights.
+
+Otherwise, no user data is shared with third parties.
+
+---
+
+## 6. Health Data
+
+If the user grants Apple Health (HealthKit) permissions:
+
+- Health data remains stored on-device.
+- Health data is never transmitted externally unless the user explicitly enables Enhanced AI Insights and requests AI analysis involving health metrics.
+
+Users can revoke HealthKit permissions at any time via iOS Settings.
+
+---
+
+## 7. Location Data
+
+The Application does not collect precise real-time location information.
+
+---
+
+## 8. Data Retention
+
+- Local data remains stored on the user's device.
+- Data transmitted to OpenAI for Enhanced AI processing is retained only as necessary to generate the requested response.
+- Users may delete their journal entries and wellness data at any time.
+- Uninstalling the Application removes locally stored data.
+
+---
+
+## 9. User Rights and Opt-Out
+
+Users may:
+
+- Use the Application entirely in local-only mode.
+- Decline to enable Enhanced AI Insights.
+- Withdraw consent at any time in settings.
+- Delete stored data.
+- Uninstall the Application.
+
+---
+
+## 10. Children’s Privacy
+
+The Application is not intended for children under 13 years of age.
+
+The Service Provider does not knowingly collect personal information from children. If you believe a child has provided personal information, please contact:
+
+utkuyegen@gmail.com
+
+Users must be at least 16 years of age (or the applicable age of consent in their country) to enable Enhanced AI Insights.
+
+---
+
+## 11. Security
+
+The Service Provider implements reasonable safeguards, including:
+
+- Local-first data processing
+- Encrypted API communication with OpenAI
+- Purpose-limited data transmission
+- No advertising-based data usage
+- No data selling practices
+
+---
+
+## 12. Changes to This Privacy Policy
+
+This Privacy Policy may be updated periodically. Updates will be reflected by revising the effective date below.
+
+Continued use of the Application constitutes acceptance of any updates.
+
+Effective Date: 2026-02-23
+
+---
+
+## 13. Contact Us
+
+If you have any questions regarding privacy while using the Application, please contact:
+
+Utku Yeğen  
+Email: utkuyegen@gmail.com
